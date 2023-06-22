@@ -1,0 +1,6 @@
+data_path = "path/to/data"
+participant = "participant_id"
+paradigm = "/auditoryAphasia_"
+condition = "condition"
+block = "_Block1_Run"
+run = 1  # First run of the condition

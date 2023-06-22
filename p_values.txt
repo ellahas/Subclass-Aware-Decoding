@@ -1,0 +1,14 @@
+Subclass-Aware Model & Global Counterpart & Participant & Condition & p-value \\
+ToeplitzRSLDA & Global ToeplitzLDA & 1 & 1D & 0.34375 \\ 
+sRSLDA & Global sLDA & 1 & 1D & 0.34375 \\ 
+Sep. ToeplitzLDA & Global ToeplitzLDA & 1 & 1D & 0.421875 \\ 
+PT TS+LDA & (Global) TS+LDA & 2 & 6D & 0.078125 \\ 
+PT TS+LDA & (Global) TS+LDA & 3 & 6D & 0.921875 \\ 
+Sub-Prototype TS+LDA & (Global) TS+LDA & 1 & 1D & 0.078125 \\ 
+Sub-Prototype PT TS+LDA & (Global) TS+LDA & 1 & 1D & 0.078125 \\ 
+PT TS+LDA & (Global) TS+LDA & 3 & 1D & 0.34375 \\ 
+PT TS+LDA & (Global) TS+LDA & 1 & HP & 0.421875 \\ 
+PT TS+LDA & (Global) TS+LDA & 2 & HP & 0.28125 \\ 
+Sub-Prototype TS+LDA & (Global) TS+LDA & 3 & HP & 0.5 \\ 
+PT TS+LDA & (Global) TS+LDA & 3 & HP & 0.28125 \\ 
+Sub-Prototype PT TS+LDA & (Global) TS+LDA & 3 & HP & 0.5
